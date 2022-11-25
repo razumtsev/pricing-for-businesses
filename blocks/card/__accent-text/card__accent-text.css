@@ -1,7 +1,7 @@
-.card__feature {
+.card__accent-text {
   font-style: normal;
   font-weight: 500;
   font-size: 14px;
   line-height: 16px;
-  margin-bottom: 17px;
+  margin: 4px 0 0;
 }

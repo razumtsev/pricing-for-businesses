@@ -41,6 +41,10 @@
 @import url(../blocks/card/__list-marker/card__list-marker.css);
 @import url(../blocks/card/__feature/card__feature.css);
 @import url(../blocks/card/__link/card__link.css);
+@import url(../blocks/card/__link/_accent/card__link_accent.css);
+@import url(../blocks/card/__accent/card__accent.css);
+@import url(../blocks/card/__accent-marker/card__accent-marker.css);
+@import url(../blocks/card/__accent-text/card__accent-text.css);
 
 /* Footer */
 @import url(../blocks/footer/footer.css);
