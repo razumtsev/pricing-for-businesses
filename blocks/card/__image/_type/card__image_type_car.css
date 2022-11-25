@@ -1,0 +1,8 @@
+.card__image_type_car {
+  background-image: url(../../../../images/car.jpg);
+  width: 172px;
+  height: 120px;
+  position: absolute;
+  top: 64px;
+  left: 47px;
+}

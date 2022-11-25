@@ -1,0 +1,8 @@
+.card__image_type_minibus {
+  background-image: url(../../../../images/minibus.jpg);
+  width: 180px;
+  height: 139px;
+  position: absolute;
+  top: 48px;
+  left: 40px;
+}

@@ -1,0 +1,8 @@
+.card__image_type_cannon {
+  background-image: url(../../../../images/cannon.jpg);
+  width: 170px;
+  height: 124px;
+  position: absolute;
+  top: 66.15px;
+  left: 43.95px;
+}

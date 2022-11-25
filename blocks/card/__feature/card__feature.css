@@ -1,0 +1,11 @@
+.card__feature {
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 16px;
+  margin-bottom: 17px;
+}
+
+.card__feature:last-of-type {
+  margin: 0;
+}

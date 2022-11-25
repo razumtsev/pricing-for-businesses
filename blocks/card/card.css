@@ -1,0 +1,16 @@
+.card {
+  display: flex;
+  flex-direction: column;
+  width: 266px;
+  min-height: 601px;
+  border-radius: 2px;
+  color: #fff;
+  position: relative;
+  box-sizing: border-box;
+  padding-left: 35px;
+  margin-right: 6px;
+}
+
+.card:last-of-type {
+  margin: 0;
+}
